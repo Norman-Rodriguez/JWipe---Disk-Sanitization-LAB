@@ -1,4 +1,3 @@
-# JWipe---Disk-Sanitization-LAB
 <h1>JWipe - Disk Sanitization</h1>
 
 <h2>Description</h2>
